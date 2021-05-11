@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1619935906539.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1619935906539-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1620716800236.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1620716800236-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,11 +15,11 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-80eba43f-9c17-4bc8-b210-17cf62b86716" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Scan Option Page" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/80eba43f-9c17-4bc8-b210-17cf62b86716-1619935906539.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/80eba43f-9c17-4bc8-b210-17cf62b86716-1619935906539-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/80eba43f-9c17-4bc8-b210-17cf62b86716-1619935906539-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/80eba43f-9c17-4bc8-b210-17cf62b86716-1620716800236.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/80eba43f-9c17-4bc8-b210-17cf62b86716-1620716800236-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/80eba43f-9c17-4bc8-b210-17cf62b86716-1620716800236-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
-      <div id="s-Button_1" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="141.0px" datasizeheight="96.0px" dataX="117.0" dataY="172.0" >\
+      <div id="s-Button_1" class="pie button multiline manualfit firer click commentable non-processed" customid="Button"   datasizewidth="375.0px" datasizeheight="123.0px" dataX="-0.0" dataY="172.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -34,7 +34,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_2" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="141.0px" datasizeheight="96.0px" dataX="117.0" dataY="310.0" >\
+      <div id="s-Button_2" class="pie button multiline manualfit firer click commentable non-processed" customid="Button"   datasizewidth="375.0px" datasizeheight="123.0px" dataX="-0.0" dataY="295.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -49,7 +49,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_4" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="141.0px" datasizeheight="96.0px" dataX="117.0" dataY="445.0" >\
+      <div id="s-Button_4" class="pie button multiline manualfit firer click commentable non-processed" customid="Button"   datasizewidth="375.0px" datasizeheight="123.0px" dataX="-0.0" dataY="418.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -241,7 +241,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
 \
 \
-        <div id="s-Image_51" class="pie image firer pageload ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_51"   datasizewidth="14.0px" datasizeheight="14.0px" dataX="63.0" dataY="33.0"   alt="image" systemName="./images/18392ef8-6e0f-4c1e-9a42-a7a975fc2d83.svg" overlay="#000000">\
+        <div id="s-Image_51" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_51"   datasizewidth="14.0px" datasizeheight="14.0px" dataX="63.0" dataY="33.0"   alt="image" systemName="./images/18392ef8-6e0f-4c1e-9a42-a7a975fc2d83.svg" overlay="#000000">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -264,63 +264,208 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
       </div>\
 \
-\
-      <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle"   datasizewidth="93.8px" datasizeheight="207.3px" datasizewidthpx="93.7719071377463" datasizeheightpx="207.2682289767418" dataX="9.0" dataY="64.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_1_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
+      <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle"   datasizewidth="375.0px" datasizeheight="74.0px" datasizewidthpx="375.0000124814208" datasizeheightpx="74.0" dataX="-0.0" dataY="738.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
         </div>\
-        <div id="s-Button_5" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="93.8px" datasizeheight="56.0px" dataX="9.0" dataY="200.1" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_5_0">Home</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Button_7" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="93.8px" datasizeheight="56.0px" dataX="9.0" dataY="127.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_7_0">Inventory</span>\
-                </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_1_0"></span>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
 \
-\
-      <div id="s-Image_1" class="pie image firer toggle ie-background commentable non-processed" customid="Image_1"   datasizewidth="38.2px" datasizeheight="50.0px" dataX="10.0" dataY="62.0"   alt="image" systemName="./images/903829ed-90b7-41b5-94d5-3825d3fe4076.svg" overlay="#A9A9A9">\
+      <div id="s-Image_9" class="pie image firer click ie-background commentable non-processed" customid="Image_9"   datasizewidth="39.7px" datasizeheight="40.0px" dataX="245.0" dataY="748.0"   alt="image" systemName="./images/b459e29d-0580-436c-a901-6b30c3e3329a.svg" overlay="#7D7D7D">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" height="64" id="s-Image_1-Layer_1" viewBox="0 0 64 64" width="64"><title>1</title><rect height="4.7" width="47" x="8.5" y="29.65" fill="#A9A9A9" jimofill=" " /><rect height="4.7" width="47" x="8.5" y="15.55" fill="#A9A9A9" jimofill=" " /><rect height="4.7" width="47" x="8.5" y="43.75" fill="#A9A9A9" jimofill=" " /></svg>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z" fill="#7D7D7D" jimofill=" " /></svg>\
 \
           </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_12" class="pie image firer click ie-background commentable non-processed" customid="Image_11"   datasizewidth="39.7px" datasizeheight="40.0px" dataX="320.0" dataY="748.0"   alt="image" systemName="./images/9363fec8-79a3-4be4-b825-f8df1d528c48.svg" overlay="#7D7D7D">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M11 9H9V2H7v7H5V2H3v7c0 2.12 1.66 3.84 3.75 3.97V22h2.5v-9.03C11.34 12.84 13 11.12 13 9V2h-2v7zm5-3v8h2.5v8H21V2c-2.76 0-5 2.24-5 4z" fill="#7D7D7D" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_16" class="pie image firer click ie-background commentable non-processed" customid="Image_16"   datasizewidth="39.7px" datasizeheight="40.0px" dataX="90.0" dataY="748.0"   alt="image" systemName="./images/fabb734a-9308-43c5-840d-bec083bac821.svg" overlay="#7D7D7D">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z" fill="#7D7D7D" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_7" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="35.6px" datasizeheight="15.0px" dataX="12.2" dataY="788.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_7_0">Home</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="54.8px" datasizeheight="15.0px" dataX="82.4" dataY="788.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_8_0">Inventory</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_9" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="56.3px" datasizeheight="15.0px" dataX="236.7" dataY="788.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_9_0">Shopping</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_14" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="41.5px" datasizeheight="15.0px" dataX="319.1" dataY="788.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_14_0">Recipe</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_36" class="pie image firer click ie-background commentable non-processed" customid="Image_36"   datasizewidth="40.0px" datasizeheight="40.0px" dataX="10.0" dataY="748.0"   alt="image" systemName="./images/ba9ee9cc-06ca-4641-9eab-9ac35d343530.svg" overlay="#7D7D7D">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" fill="#7D7D7D" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_14" class="pie image firer click ie-background commentable non-processed" customid="Image_14"   datasizewidth="40.0px" datasizeheight="40.0px" dataX="167.5" dataY="748.0"   alt="image" systemName="./images/79f63fbf-7e76-49a2-ab8e-b1b3d4c6182a.svg" overlay="#1EAAF1">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M3 5v4h2V5h4V3H5c-1.1 0-2 .9-2 2zm2 10H3v4c0 1.1.9 2 2 2h4v-2H5v-4zm14 4h-4v2h4c1.1 0 2-.9 2-2v-4h-2v4zm0-16h-4v2h4v4h2V5c0-1.1-.9-2-2-2z" fill="#1EAAF1" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_10" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="55.6px" datasizeheight="15.0px" dataX="159.7" dataY="788.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_10_0">Scanning</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_2" class="pie image firer ie-background commentable non-processed" customid="Image_1"   datasizewidth="50.0px" datasizeheight="50.0px" dataX="325.0" dataY="454.5"   alt="image" systemName="./images/3a18160d-e2a7-48ab-b49c-7b69775d9a78.svg" overlay="#A9A9A9">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" height="64" id="s-Image_2-Layer_1" viewBox="0 0 64 64" width="64"><defs><style>#s-Image_2 .cls-1{fill:#A9A9A9 !important;}</style></defs><title>Next111111</title><polygon class="cls-1" id="s-Image_2-previous" points="19.84 8.88 42.97 32 19.84 55.12 17.04 52.26 37.3 32 16.73 11.43 19.84 8.88" fill="#A9A9A9" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_3" class="pie image firer ie-background commentable non-processed" customid="Image_1"   datasizewidth="50.0px" datasizeheight="50.0px" dataX="325.0" dataY="331.5"   alt="image" systemName="./images/6d82e21a-4391-4099-a44e-c9ade0c87dc6.svg" overlay="#A9A9A9">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" height="64" id="s-Image_3-Layer_1" viewBox="0 0 64 64" width="64"><defs><style>#s-Image_3 .cls-1{fill:#A9A9A9 !important;}</style></defs><title>Next111111</title><polygon class="cls-1" id="s-Image_3-previous" points="19.84 8.88 42.97 32 19.84 55.12 17.04 52.26 37.3 32 16.73 11.43 19.84 8.88" fill="#A9A9A9" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_4" class="pie image firer ie-background commentable non-processed" customid="Image_1"   datasizewidth="50.0px" datasizeheight="50.0px" dataX="325.0" dataY="208.5"   alt="image" systemName="./images/eb9b1c17-f042-44f7-86c0-406e2ad17fe2.svg" overlay="#A9A9A9">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" height="64" id="s-Image_4-Layer_1" viewBox="0 0 64 64" width="64"><defs><style>#s-Image_4 .cls-1{fill:#A9A9A9 !important;}</style></defs><title>Next111111</title><polygon class="cls-1" id="s-Image_4-previous" points="19.84 8.88 42.97 32 19.84 55.12 17.04 52.26 37.3 32 16.73 11.43 19.84 8.88" fill="#A9A9A9" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_1" class="pie image firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.0px" datasizeheight="75.0px" dataX="15.0" dataY="196.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/5aed7bb3-8fbf-4740-a6af-f97997ff5715.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_5" class="pie image firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.0px" datasizeheight="75.0px" dataX="15.0" dataY="442.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/024e1a39-bbb2-4bc6-88a6-4a488df86e8b.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_6" class="pie image firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.0px" datasizeheight="75.0px" dataX="15.0" dataY="319.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/6e27c119-1e83-4aeb-a9c7-6eee1b20d6d9.png" />\
+        	</div>\
         </div>\
       </div>\
 \

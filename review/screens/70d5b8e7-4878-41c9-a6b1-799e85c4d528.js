@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1619935906539.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1619935906539-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1620716800236.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1620716800236-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -12,37 +12,30 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-70d5b8e7-4878-41c9-a6b1-799e85c4d528" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Login" width="375" height="812">\
+    <div id="s-70d5b8e7-4878-41c9-a6b1-799e85c4d528" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer commentable non-processed" alignment="left" name="Login" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/70d5b8e7-4878-41c9-a6b1-799e85c4d528-1619935906539.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/70d5b8e7-4878-41c9-a6b1-799e85c4d528-1619935906539-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/70d5b8e7-4878-41c9-a6b1-799e85c4d528-1619935906539-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/70d5b8e7-4878-41c9-a6b1-799e85c4d528-1620716800236.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/70d5b8e7-4878-41c9-a6b1-799e85c4d528-1620716800236-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/70d5b8e7-4878-41c9-a6b1-799e85c4d528-1620716800236-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
-      <div id="s-Input_1" class="pie text firer commentable non-processed" customid="Input"  datasizewidth="251.0px" datasizeheight="56.0px" dataX="62.0" dataY="368.0" ><div class="backgroundLayer">\
+      <div id="s-Image_1" class="pie image firer ie-background commentable non-processed" customid="Image"   datasizewidth="309.0px" datasizeheight="100.0px" dataX="33.0" dataY="682.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/cbd6a17e-dd00-4ee3-ad41-def0e05f6712.jpg" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Input_1" class="pie text firer keyup click commentable non-processed" customid="Input"  datasizewidth="309.0px" datasizeheight="56.0px" dataX="33.0" dataY="378.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="User Name"/></div></div>  </div></div></div>\
-      <div id="s-Input_2" class="pie text firer commentable non-processed" customid="Input"  datasizewidth="251.0px" datasizeheight="56.0px" dataX="62.0" dataY="460.0" ><div class="backgroundLayer">\
+      <div id="s-Input_2" class="pie password firer keyup click commentable non-processed" customid="Input"  datasizewidth="309.0px" datasizeheight="56.0px" dataX="33.0" dataY="460.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Password"/></div></div>  </div></div></div>\
-      <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="58.7px" datasizeheight="27.0px" dataX="158.1" dataY="108.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_1_0">Login</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Button_1" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="106.0px" datasizeheight="63.0px" dataX="134.5" dataY="548.0" >\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="password"  value="" maxlength="100"  tabindex="-1" placeholder="Password"/></div></div></div></div></div>\
+      <div id="s-Button_1" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="178.5px" datasizeheight="63.0px" dataX="9.0" dataY="542.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -57,7 +50,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_2" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="106.0px" datasizeheight="63.0px" dataX="134.5" dataY="649.0" >\
+      <div id="s-Button_2" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="178.5px" datasizeheight="63.0px" dataX="187.0" dataY="542.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -74,7 +67,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       </div>\
 \
       <div id="s-statusBar" class="group firer ie-background commentable non-processed" customid="statusBar" datasizewidth="1006.0px" datasizeheight="20.0px" >\
-        <div id="s-Label_40" class="pie richtext manualfit firer pageload ie-background commentable pin vpin-beginning hpin-center non-processed-pin non-processed" customid="Label_40"   datasizewidth="78.0px" datasizeheight="19.0px" dataX="0.0" dataY="30.0" >\
+        <div id="s-Label_40" class="pie richtext manualfit firer pageload commentable pin vpin-beginning hpin-center non-processed-pin non-processed" customid="Label_40"   datasizewidth="78.0px" datasizeheight="19.0px" dataX="0.0" dataY="30.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -224,7 +217,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </div>\
             </div>\
         </div>\
-        <div id="s-Label_62" class="pie richtext manualfit firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Label_62"   datasizewidth="50.0px" datasizeheight="19.0px" dataX="24.0" dataY="31.0" >\
+        <div id="s-Label_62" class="pie richtext manualfit firer commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Label_62"   datasizewidth="50.0px" datasizeheight="19.0px" dataX="24.0" dataY="31.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -273,16 +266,44 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       </div>\
 \
 \
-      <div id="s-Image_13" class="pie image firer ie-background commentable non-processed" customid="Image_13"   datasizewidth="187.5px" datasizeheight="146.6px" dataX="93.8" dataY="178.0"   alt="image" systemName="./images/c34dabb6-0f20-4081-8826-74d3006980da.svg" overlay="#A9A9A9">\
+      <div id="s-Image_13" class="pie image firer ie-background commentable non-processed" customid="Image_13"   datasizewidth="340.4px" datasizeheight="260.0px" dataX="17.3" dataY="82.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" height="64" id="s-Image_13-Layer_1" viewBox="0 0 64 64" width="64"><defs><style>#s-Image_13 .cls-1{fill:#A9A9A9 !important;}</style></defs><title>shop_cart</title><path class="cls-1" d="M10,53a3,3,0,1,0,3-3A3,3,0,0,0,10,53Zm4,0a1,1,0,1,1-1-1A1,1,0,0,1,14,53Z" fill="#A9A9A9" jimofill=" " /><path class="cls-1" d="M57,50a3,3,0,1,0,3,3A3,3,0,0,0,57,50Zm0,4a1,1,0,1,1,1-1A1,1,0,0,1,57,54Z" fill="#A9A9A9" jimofill=" " /><path class="cls-1" d="M5,10H9.26l8.45,27.24C13.18,38.46,10,43.64,10,47a1,1,0,0,0,1,1H59a1,1,0,0,0,0-2H12.12c0.59-2.67,3.3-6.61,7-7l40-4a1,1,0,0,0,.9-1V13a1,1,0,0,0-1-1H12L11,8.7A1,1,0,0,0,10,8H5A1,1,0,0,0,5,10Zm53,4V33.1L19.71,36.93,12.6,14H58Z" fill="#A9A9A9" jimofill=" " /></svg>\
-\
-          </div>\
+        		<img src="./images/cfeebe64-8868-412f-ad08-2a80c9010f4b.jpeg" />\
+        	</div>\
         </div>\
       </div>\
 \
+      <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable hidden non-processed" customid="Rectangle"   datasizewidth="341.0px" datasizeheight="117.0px" datasizewidthpx="341.0" datasizeheightpx="116.99999999999977" dataX="17.0" dataY="505.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_1_0">Invalid ID or password</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_1" class="pie richtext autofit firer commentable non-processed" customid="Paragraph"   datasizewidth="119.3px" datasizeheight="42.0px" dataX="127.8" dataY="640.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_1_0">Developed by <br />Team 5 Stars</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\
