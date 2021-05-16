@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1620716800236.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1620716800236-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621167404781.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621167404781-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-addbe419-d9eb-4fb8-9561-cc8e3fffb16e" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="BuyItems" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/addbe419-d9eb-4fb8-9561-cc8e3fffb16e-1620716800236.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/addbe419-d9eb-4fb8-9561-cc8e3fffb16e-1620716800236-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/addbe419-d9eb-4fb8-9561-cc8e3fffb16e-1620716800236-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/addbe419-d9eb-4fb8-9561-cc8e3fffb16e-1621167404781.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/addbe419-d9eb-4fb8-9561-cc8e3fffb16e-1621167404781-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/addbe419-d9eb-4fb8-9561-cc8e3fffb16e-1621167404781-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph 1"   datasizewidth="98.7px" datasizeheight="54.0px" dataX="138.1" dataY="63.0" >\
         <div class="backgroundLayer">\
