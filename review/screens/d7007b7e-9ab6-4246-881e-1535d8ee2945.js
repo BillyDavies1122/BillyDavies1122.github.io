@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621167404781.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621167404781-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621741025603.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621741025603-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-d7007b7e-9ab6-4246-881e-1535d8ee2945" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Manually Add" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d7007b7e-9ab6-4246-881e-1535d8ee2945-1621167404781.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d7007b7e-9ab6-4246-881e-1535d8ee2945-1621167404781-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d7007b7e-9ab6-4246-881e-1535d8ee2945-1621167404781-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d7007b7e-9ab6-4246-881e-1535d8ee2945-1621741025603.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d7007b7e-9ab6-4246-881e-1535d8ee2945-1621741025603-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d7007b7e-9ab6-4246-881e-1535d8ee2945-1621741025603-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="186.8px" datasizeheight="27.0px" dataX="94.1" dataY="75.0" >\
         <div class="backgroundLayer">\
@@ -34,7 +34,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_1" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="90.0px" datasizeheight="78.0px" dataX="142.5" dataY="517.0" >\
+      <div id="s-Button_1" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="90.0px" datasizeheight="78.0px" dataX="142.5" dataY="442.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -49,7 +49,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_2" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="90.0px" datasizeheight="78.0px" dataX="142.5" dataY="625.0" >\
+      <div id="s-Button_2" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="90.0px" datasizeheight="78.0px" dataX="142.5" dataY="550.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\

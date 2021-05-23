@@ -395,6 +395,10 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_10", "e9b63658-23a3-4eb9-998a-5210f87cee58"]] = ["Text", "s-Paragraph_10"]; 
 
+	widgets.descriptionMap[["s-Button_3", "e9b63658-23a3-4eb9-998a-5210f87cee58"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_3", "e9b63658-23a3-4eb9-998a-5210f87cee58"]] = ["Button", "s-Button_3"]; 
+
 	widgets.descriptionMap[["s-Label_40", "8b243171-27fa-4ce7-8804-ad771d17dd0a"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Label_40", "8b243171-27fa-4ce7-8804-ad771d17dd0a"]] = ["Title Button", "s-Label_40"]; 
@@ -855,6 +859,10 @@
 
 			widgets.rootWidgetMap[["s-Image_4", "4c6548e0-8804-469e-bfd6-7a0b10b6da3c"]] = ["Next", "s-Image_4"]; 
 
+	widgets.descriptionMap[["s-Button_3", "4c6548e0-8804-469e-bfd6-7a0b10b6da3c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_3", "4c6548e0-8804-469e-bfd6-7a0b10b6da3c"]] = ["Button", "s-Button_3"]; 
+
 	widgets.descriptionMap[["s-Label_40", "66f8e110-2f61-4e39-a121-609fbc8d038f"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Label_40", "66f8e110-2f61-4e39-a121-609fbc8d038f"]] = ["Title Button", "s-Label_40"]; 
@@ -1086,6 +1094,10 @@
 	widgets.descriptionMap[["s-Image_6", "80eba43f-9c17-4bc8-b210-17cf62b86716"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_6", "80eba43f-9c17-4bc8-b210-17cf62b86716"]] = ["Image", "s-Image_6"]; 
+
+	widgets.descriptionMap[["s-Button_3", "80eba43f-9c17-4bc8-b210-17cf62b86716"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_3", "80eba43f-9c17-4bc8-b210-17cf62b86716"]] = ["Button", "s-Button_3"]; 
 
 	widgets.descriptionMap[["s-Button_1", "ae3e4edd-0f5a-4b99-8714-3f2c84cd1733"]] = ""; 
 
@@ -1898,6 +1910,10 @@
 	widgets.descriptionMap[["s-Image_6", "1460f662-d7da-4588-8449-83144c6e0ea3"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_6", "1460f662-d7da-4588-8449-83144c6e0ea3"]] = ["Next", "s-Image_6"]; 
+
+	widgets.descriptionMap[["s-Button_3", "1460f662-d7da-4588-8449-83144c6e0ea3"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_3", "1460f662-d7da-4588-8449-83144c6e0ea3"]] = ["Button", "s-Button_3"]; 
 
 	widgets.descriptionMap[["s-Paragraph_1", "46884e45-e1b3-4fa8-9f1f-6c58a763e060"]] = ""; 
 

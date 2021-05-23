@@ -18,7 +18,7 @@
     "70d5b8e7-4878-41c9-a6b1-799e85c4d528": "Login",
     "b3675e40-b016-4a96-8d35-ffd893d537d4": "Error",
     "51a1e30b-c594-4b52-862d-b0095f52b6b4": "Cart",
-    "1460f662-d7da-4588-8449-83144c6e0ea3": "RecipeOption",
+    "1460f662-d7da-4588-8449-83144c6e0ea3": "Recipe Option",
     "46884e45-e1b3-4fa8-9f1f-6c58a763e060": "SuggestedRecipe",
     "d12245cc-1680-458d-89dd-4f0d7fb22724": "Home Screen",
     "d7007b7e-9ab6-4246-881e-1535d8ee2945": "Manually Add",

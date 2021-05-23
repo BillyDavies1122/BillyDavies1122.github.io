@@ -217,6 +217,29 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_3")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/70d5b8e7-4878-41c9-a6b1-799e85c4d528"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
     }
   })
   .on("pageload", ".s-80eba43f-9c17-4bc8-b210-17cf62b86716 .pageload", function(event, data) {

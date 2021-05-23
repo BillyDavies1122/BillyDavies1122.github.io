@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621167404781.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621167404781-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621741025603.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621741025603-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-79675275-6d14-4bb2-8548-dab9a86413a6" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Shoppinglist" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/79675275-6d14-4bb2-8548-dab9a86413a6-1621167404781.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/79675275-6d14-4bb2-8548-dab9a86413a6-1621167404781-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/79675275-6d14-4bb2-8548-dab9a86413a6-1621167404781-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/79675275-6d14-4bb2-8548-dab9a86413a6-1621741025603.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/79675275-6d14-4bb2-8548-dab9a86413a6-1621741025603-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/79675275-6d14-4bb2-8548-dab9a86413a6-1621741025603-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Data_grid_1" summary="" class="pie datagrid horizontal firer ie-background commentable non-processed" customid="Productlist 1" items="2" size="0" childWidth="180.49999999999994" childHeight="261.5" hSpacing="5" vSpacing="5" datamaster="Products" datasizewidth="376.0px" datasizeheight="538.0px" dataX="-1.0" dataY="122.0" originalwidth="375.9999999999999px" originalheight="538.0px" >\
         <div class="backgroundLayer">\

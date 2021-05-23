@@ -1,11 +1,11 @@
 jQuery("#simulation")
-  .on("click", ".s-4c6548e0-8804-469e-bfd6-7a0b10b6da3c .click", function(event, data) {
+  .on("click", ".s-e9b63658-23a3-4eb9-998a-5210f87cee58 .click", function(event, data) {
     var jEvent, jFirer, cases;
     if(jimUtil.isAlternateModeActive()) return;
     if(data === undefined) { data = event; }
     jEvent = jimEvent(event);
     jFirer = jEvent.getEventFirer();
-    if(jFirer.is("#s-Button_4")) {
+    if(jFirer.is("#s-Image_9")) {
       cases = [
         {
           "blocks": [
@@ -14,34 +14,11 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/79675275-6d14-4bb2-8548-dab9a86413a6",
+                    "target": "screens/4c6548e0-8804-469e-bfd6-7a0b10b6da3c",
                     "transition": {
                       "type": "slideleft",
                       "duration": 700
                     }
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Image_9")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimNavigation",
-                  "parameter": {
-                    "target": "screens/4c6548e0-8804-469e-bfd6-7a0b10b6da3c"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -64,7 +41,11 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/1460f662-d7da-4588-8449-83144c6e0ea3"
+                    "target": "screens/1460f662-d7da-4588-8449-83144c6e0ea3",
+                    "transition": {
+                      "type": "slideleft",
+                      "duration": 700
+                    }
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -87,11 +68,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/e9b63658-23a3-4eb9-998a-5210f87cee58",
-                    "transition": {
-                      "type": "slideright",
-                      "duration": 700
-                    }
+                    "target": "screens/e9b63658-23a3-4eb9-998a-5210f87cee58"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -143,7 +120,7 @@ jQuery("#simulation")
                   "parameter": {
                     "target": "screens/80eba43f-9c17-4bc8-b210-17cf62b86716",
                     "transition": {
-                      "type": "slideright",
+                      "type": "slideleft",
                       "duration": 700
                     }
                   },
@@ -159,9 +136,125 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_3")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/70d5b8e7-4878-41c9-a6b1-799e85c4d528"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
     }
   })
-  .on("pageload", ".s-4c6548e0-8804-469e-bfd6-7a0b10b6da3c .pageload", function(event, data) {
+  .on("click", ".s-e9b63658-23a3-4eb9-998a-5210f87cee58 .toggle", function(event, data) {
+    var jEvent, jFirer, cases;
+    if(jimUtil.isAlternateModeActive()) return;
+    if(data === undefined) { data = event; }
+    jEvent = jimEvent(event);
+    jFirer = jEvent.getEventFirer();
+    if(jFirer.is("#s-Image_28")) {
+      if(jFirer.data("jimHasToggle")) {
+        jFirer.removeData("jimHasToggle");
+        jEvent.undoCases(jFirer);
+      } else {
+        jFirer.data("jimHasToggle", true);
+        event.backupState = true;
+        event.target = jFirer;
+        cases = [
+          {
+            "blocks": [
+              {
+                "actions": [
+                  {
+                    "action": "jimShow",
+                    "parameter": {
+                      "target": [ "#s-Input_1" ]
+                    },
+                    "exectype": "serial",
+                    "delay": 0
+                  },
+                  {
+                    "action": "jimFocusOn",
+                    "parameter": {
+                      "target": [ "#s-Input_1" ]
+                    },
+                    "exectype": "serial",
+                    "delay": 0
+                  }
+                ]
+              }
+            ],
+            "exectype": "serial",
+            "delay": 0
+          }
+        ];
+        jEvent.launchCases(cases);
+      }
+    }
+  })
+  .on("keyup.jim", ".s-e9b63658-23a3-4eb9-998a-5210f87cee58 .keyup", function(event, data) {
+    var jEvent, jFirer, cases;
+    if(jimUtil.isAlternateModeActive()) return;
+    if(data === undefined) { data = event; }
+    jEvent = jimEvent(event);
+    jFirer = jEvent.getEventFirer();
+    if(jFirer.is("#s-Input_1")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Data_grid_1" ],
+                    "value": {
+                      "action": "jimFilterData",
+                      "parameter": {
+                        "datatype": "datamaster",
+                        "datamaster": "Inventory",
+                        "value": {
+                          "datatype": "property",
+                          "target": "#s-Input_1",
+                          "property": "jimGetValue"
+                        }
+                      }
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      if(!jimUtil.isAndroidDevice() || data.which != 229)
+      	jEvent.launchCases(cases);
+      if(data.which === 9) {
+        return false;
+      }
+    }
+  })
+  .on("pageload", ".s-e9b63658-23a3-4eb9-998a-5210f87cee58 .pageload", function(event, data) {
     var jEvent, jFirer, cases;
     if(jimUtil.isAlternateModeActive()) return;
     if(data === undefined) { data = event; }
@@ -186,6 +279,29 @@ jQuery("#simulation")
                         },"0","5" ]
                       }," PM" ]
                     }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_51")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Input_1" ]
                   },
                   "exectype": "serial",
                   "delay": 0
